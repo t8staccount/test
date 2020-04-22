@@ -2,5 +2,6 @@ CurrencyConvertorSoap
 ServiceSoapBinding
 http%3A%2F%2Flocalhost%3A8084
 VirtualServices
+TestSuite-1
 Virtual-SOAP-Service
 Virtual-REST-Service
